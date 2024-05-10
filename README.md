@@ -32,3 +32,4 @@ bun dev
 9. 要注意，不要一口氣用程式搜尋再取代，因為像大寫的 Stage 就不是取代的對象，getStage 也不是取代的對象，stageChild 也不是取代的對象
 10. 原本在 html 檔中載入的兩支 JS 檔，變成用 Script 標籤專入，並且是分次載入，兩支都載入後才觸發 init
 11. 如果動畫有用到全域變數的，或全域方法的，通通丟到產出的動畫的 js 檔的最前面，參考 public 下的 cake.js
+12. [部置的測試網站](https://next-adobe-animate-01.vercel.app/)
